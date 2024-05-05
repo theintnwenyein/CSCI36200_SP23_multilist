@@ -1,0 +1,3 @@
+This multilist program is written in C++ in Windows Powershell using vim on tesla server.
+The main program is multilist.cpp and the command to run the file is g++ multilist.cpp -o multilist and enter ./multilist.
+Obviously, you can put any names you want instead of multilist but I went with multilist and it is a part of the zip file.
